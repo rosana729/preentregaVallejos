@@ -1,0 +1,141 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0% 80%;
+    height: 400px;
+}
+
+.font-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred!important;
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+.left-img{
+    margin-top: 10px;
+    background-image: url(img/nosotros.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.right-img{
+    margin-top: 10px;
+    background-image: url(img/nos.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.nos{
+    margin-top: 20px;
+    /* background-color: #111010; */
+}
+h2{
+    text-align: center;
+}
+
+#galeria{
+    margin-top: 100px;
+}
+#galeria .col-lg-4{
+    margin-top: 40px;
+    margin: 0;
+    padding: 25px;
+}
+#galeria img{
+ width: 100%;
+ height: 250px;
+ filter: sepia(100%);
+ }
+
+#galeria img:hover{
+    transform: scale(1.09);
+    transition: all 0.9s;
+    filter: sepia(0%);
+}
+.form {
+    margin-top: 80px;
+    padding-top: 40px;
+    background-color: #010312;
+    }
+.cont{
+ color:#fff;
+ margin-bottom: 2px;
+}
+
+.contac {
+ position: top;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ font-size: 38px;
+ color: #fff;
+ z-index: 2;}
+
+.contacto {
+position: top;
+line-height: 30px;
+margin-top: 30px !important; 
+margin-bottom: 30px !important; 
+font-size: 20px;
+color: #fff;
+z-index: 2;
+}
+.left-img{
+    margin-top: 10px;
+    background-image: url(img/nosotros.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.right-img{
+    margin-top: 10px;
+    background-image: url(img/nos.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.nos{
+    margin-top: 20px;
+    /* background-color: #111010; */
+}
+h2{
+    text-align: center;
+}
+
+#galeria{
+    margin-top: 100px;
+}
+#galeria .col-lg-4{
+    margin-top: 40px;
+    margin: 0;
+    padding: 25px;
+}
+#galeria img{
+ width: 100%;
+ height: 250px;
+ filter: sepia(100%);
+ }
+
+#galeria img:hover{
+    transform: scale(1.09);
+    transition: all 0.9s;
+    filter: sepia(0%);
+}
+
